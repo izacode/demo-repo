@@ -1,0 +1,4 @@
+fileToIgnore.js
+/folderToIgnore
+
+
